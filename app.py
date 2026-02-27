@@ -1,4 +1,4 @@
 contador = 10
 
-print("Contador: ", contador)
+print("Valor actual: ", contador)
 
